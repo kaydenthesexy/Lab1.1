@@ -1,1 +1,1 @@
-print ("ET0735 - DevOps is  DCPE module")
+print ("ET0735 - DevOps is  for AIOT")
